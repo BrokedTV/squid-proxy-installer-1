@@ -25,3 +25,11 @@ To create users, run
 ```
 
 replace USERNAME_HERE and PASSWORD_HERE with your desired user name and password.
+
+# Restart Proxy
+
+To restart proxy, run 
+
+```
+/etc/init.d/squid restart
+```
